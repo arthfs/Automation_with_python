@@ -1,4 +1,4 @@
-<img src= 'https://ibb.co/PMCBC02' width=1020 > <br><br>
+<img src= 'https://media.giphy.com/media/bygAvK0wKS4S6rXSXC/giphy.gif' width=600 > <br><br>
 Like_All_Post - Instagram Profile Page Liker
 
 Like_All_Post is a Python script designed to automate the process of liking all the posts on an Instagram profile page. This script simplifies engagement by efficiently interacting with posts without manual intervention.
